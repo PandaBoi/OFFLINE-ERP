@@ -74,7 +74,7 @@ Move to repo's directory using the following command.
 
 Run this command to install the remaining dependencies : 
 
-    pip install --user -r requirements.txt --ignore-installed 
+    python -m pip install --user -r requirements.txt --ignore-installed 
 
 
 ## Deployment 
